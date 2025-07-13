@@ -1,0 +1,589 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/agility.png",
+      "sha1": "54ce8cee91016e9fadacec59a6dca905e07ccda0"
+    },
+    {
+      "path": "assets/backextension.mp4",
+      "sha1": "a5c0ecf9bd92f7a473988205313a38e412f65750"
+    },
+    {
+      "path": "assets/backup.mp4",
+      "sha1": "a4619dc48f3f3ff2a59ce944cc9d49cb4373fcfd"
+    },
+    {
+      "path": "assets/barbellrow.mp4",
+      "sha1": "93e57b56d051c4b75fb26dfac6fe08037dc4d274"
+    },
+    {
+      "path": "assets/benchDips.mp4",
+      "sha1": "0b2582930f0068b06f9229fc73d02a893edbbf46"
+    },
+    {
+      "path": "assets/benchPress.mp4",
+      "sha1": "a32d8bb27d34b52b48071de7f59348216527c3cc"
+    },
+    {
+      "path": "assets/bentOverRow.mp4",
+      "sha1": "fc23b82db0bc7f972f7c9f384491ec5bb4c123ec"
+    },
+    {
+      "path": "assets/bicepsBarbelCurl.mp4",
+      "sha1": "9351ff161473ebee91ab4ed0718cd550c166f144"
+    },
+    {
+      "path": "assets/bicepsCurl.mp4",
+      "sha1": "96288d9a17fac97536c26a7e0f89a07664680b08"
+    },
+    {
+      "path": "assets/boxjumps.jpg",
+      "sha1": "178d46abb715d6817d4349afcd0d190cc9803f3e"
+    },
+    {
+      "path": "assets/bridge.mp4",
+      "sha1": "0f2bb27c0df28b8ceb95df7b50be90ceb19623be"
+    },
+    {
+      "path": "assets/bulgarianSplit.mp4",
+      "sha1": "f9121df0f7ed968e6a9f649c3b486638e642aa6f"
+    },
+    {
+      "path": "assets/butterfly.mp4",
+      "sha1": "6413d1b04d567448cfaaaa183c6facdc67b4351a"
+    },
+    {
+      "path": "assets/butterfly2.jpg",
+      "sha1": "cd390f75b8ccc6c1659624ae824b3c8e2ca5c7ab"
+    },
+    {
+      "path": "assets/cabbleCrunch.mp4",
+      "sha1": "1ba803b720342e4ff467feca84aaadb0f43cd718"
+    },
+    {
+      "path": "assets/cableRobExtension.mp4",
+      "sha1": "f194b581316034a7d5603c06dbf27f81f8670e49"
+    },
+    {
+      "path": "assets/calfRise.mp4",
+      "sha1": "617001ec07804be1eb307781f2c610721aac433f"
+    },
+    {
+      "path": "assets/chestFly.mp4",
+      "sha1": "17f5a35ab298cddb89a3e2edadfb7931cea31464"
+    },
+    {
+      "path": "assets/childpose.jpg",
+      "sha1": "27d216983efe0113d6ff2744b069f41a02822a24"
+    },
+    {
+      "path": "assets/clappushup.mp4",
+      "sha1": "e286fee713b83cdcf6bc4dafcb5b5057090dfff2"
+    },
+    {
+      "path": "assets/climberTwist.mp4",
+      "sha1": "6d6f4fd3803ab7c78a44ef1011e189d85730ddfc"
+    },
+    {
+      "path": "assets/cobrapose.jpg",
+      "sha1": "ff3f610f23b4cef43628ad13e18860de2e5ff261"
+    },
+    {
+      "path": "assets/coordination.png",
+      "sha1": "2b74af9d3aa5d4dc50bbc4a4d97d5cb42c1f25bc"
+    },
+    {
+      "path": "assets/crunch.mp4",
+      "sha1": "f4e909a47638ec3adb0e36e5591f6cc76eb27aec"
+    },
+    {
+      "path": "assets/cycling.mp4",
+      "sha1": "a83a482c107d4384ecd8f3713d7ff75805a0d31e"
+    },
+    {
+      "path": "assets/dayatahan.png",
+      "sha1": "be399cc9be33b6a42503c2ca1a1e9ae4e18366ac"
+    },
+    {
+      "path": "assets/deadbug.mp4",
+      "sha1": "22b5d7daa2b12d10ab995f59d4eed2383bd76f18"
+    },
+    {
+      "path": "assets/deadLift.mp4",
+      "sha1": "f75c837c6f160e7411bc306d2788da3f0ab7ab53"
+    },
+    {
+      "path": "assets/deadLift2.mp4",
+      "sha1": "f75c837c6f160e7411bc306d2788da3f0ab7ab53"
+    },
+    {
+      "path": "assets/deadlift2vid.mp4",
+      "sha1": "5cad9a473c3da2381c04e8625e480bc5406c3190"
+    },
+    {
+      "path": "assets/declineBechPress.mp4",
+      "sha1": "19f57a43197d4f96b17bcf68f4437c9e72d8c7ab"
+    },
+    {
+      "path": "assets/declinePushUp.mp4",
+      "sha1": "21ef0e70c9e2cd6398f6b52af19f63000d20e5a8"
+    },
+    {
+      "path": "assets/depthJumps.mp4",
+      "sha1": "0d61745daaaeb2be5a14c8ed5c2d65c3779217ea"
+    },
+    {
+      "path": "assets/diamondPushUp.mp4",
+      "sha1": "8bfbc744d5ad802f4954cd2bd5b3f157487490c0"
+    },
+    {
+      "path": "assets/downwarddog.jpg",
+      "sha1": "60ba246b46f931c3f97b81b8e28c955ab07e7664"
+    },
+    {
+      "path": "assets/dumbbellBrenchPress.mp4",
+      "sha1": "c6f45f9ac69da0eb3158c58c9e4892f257e0ceab"
+    },
+    {
+      "path": "assets/dumbbellbrenchpress1.json",
+      "sha1": "6b773be2316fe1f72de8d25cc9ad05f49a593e89"
+    },
+    {
+      "path": "assets/dumbbellLegExtension.mp4",
+      "sha1": "5bbf1577cd2092d6250e6c83c35b158a17fa2709"
+    },
+    {
+      "path": "assets/dumbbellLunges.mp4",
+      "sha1": "c4af049e17abc417cc6247fef1121a12f60523e2"
+    },
+    {
+      "path": "assets/dumbbellRow.mp4",
+      "sha1": "940771d30596b24ccedbcec1f4b96d6d5f3e21cb"
+    },
+    {
+      "path": "assets/eurofit.jpg",
+      "sha1": "b6b8c06bc45e35306486d0127791223d4f276365"
+    },
+    {
+      "path": "assets/flexibility.png",
+      "sha1": "a92b80579ab5e2bc37277e887f41e46be3e49a5a"
+    },
+    {
+      "path": "assets/flutterKick.mp4",
+      "sha1": "d6eb0930d70dcf905dfcc1b4119766b91a4d97e3"
+    },
+    {
+      "path": "assets/forwardlunge.jpg",
+      "sha1": "ac0c85a235ae278c044cd7485ea99ee57def3c68"
+    },
+    {
+      "path": "assets/frontRaise.mp4",
+      "sha1": "ae9a9e50bd42c34bc296ad8caa2d0c00dfdca43e"
+    },
+    {
+      "path": "assets/halfSquad.mp4",
+      "sha1": "fa601862c544fd49dc653162da4f7074e8e3d0c3"
+    },
+    {
+      "path": "assets/hamstringCurl.mp4",
+      "sha1": "091dce057ec532e8039aaa8094766cd1749f3731"
+    },
+    {
+      "path": "assets/headerbg.png",
+      "sha1": "8a69586e391d7d32fdfeebe2c61b78a34516ffe4"
+    },
+    {
+      "path": "assets/heeltouch.mp4",
+      "sha1": "e7e74ea89e6ff284a81487aac6d60230ec3ebb15"
+    },
+    {
+      "path": "assets/highplank1.jpg",
+      "sha1": "57f64a6b2d8312306b5eabf73efd2be92faf7345"
+    },
+    {
+      "path": "assets/highplank2.jpg",
+      "sha1": "cd3c686324f0f780b9ba97328bff506fe324eaa5"
+    },
+    {
+      "path": "assets/hipThrust.mp4",
+      "sha1": "f0fa6d21bcc79a3183c47fa0d6ba177bf953ec6d"
+    },
+    {
+      "path": "assets/hummerCurl.mp4",
+      "sha1": "e921565aeba7afda3898381344d1567d808980d4"
+    },
+    {
+      "path": "assets/inclineBenchPress.mp4",
+      "sha1": "2ea8a7fa9defebb10bd223276af06c4611782d81"
+    },
+    {
+      "path": "assets/inclinePushUp.mp4",
+      "sha1": "fbba0136bd861d7d88b9e9a4fc365c8b78f212be"
+    },
+    {
+      "path": "assets/jumpingjack.mp4",
+      "sha1": "dd67ba2225e46ef4257e2a0c89506780ae1d4d2a"
+    },
+    {
+      "path": "assets/jumpSquats.mp4",
+      "sha1": "6aacc2cae3701015914b12aeca7b55e62e2e8530"
+    },
+    {
+      "path": "assets/jumpwithhurdle1.mp4",
+      "sha1": "72cdd1110e4ee81eb5626e8ad69168eae974b02a"
+    },
+    {
+      "path": "assets/jumpwithhurdle2.mp4",
+      "sha1": "7dc87ef2e5219f8d7e22f59db51fc4d78521943e"
+    },
+    {
+      "path": "assets/jumpWithHurdle3.mp4",
+      "sha1": "02aafd14fdfc0d6c05fdbbc244f6a5006b4a8314"
+    },
+    {
+      "path": "assets/jumpwithhurdle4.mp4",
+      "sha1": "5605ac8786bd91d27d36c47f5e6752174187921c"
+    },
+    {
+      "path": "assets/jumpWithHurdle5.mp4",
+      "sha1": "8e096a15948dfc4b8cfe64562d030910da9a1f1f"
+    },
+    {
+      "path": "assets/kneeldownJumpTucks.mp4",
+      "sha1": "02b247703f6a90b625cc74192a52aebca3589d7d"
+    },
+    {
+      "path": "assets/kneeldownToJumpSquat.mp4",
+      "sha1": "44a963e5f11b59469bb1a3d5a4faa03651ff2058"
+    },
+    {
+      "path": "assets/kneelingdownstrecth.jpg",
+      "sha1": "92569705f730218d2ec1a496fbc4b74e4fd96fdf"
+    },
+    {
+      "path": "assets/kneelinghamstring.jpg",
+      "sha1": "ede6eed454cb61727093698a4d73057b5664cf3b"
+    },
+    {
+      "path": "assets/kneeTucks.mp4",
+      "sha1": "15bc231f4304fa5e4cc601a52e4df233903b81b1"
+    },
+    {
+      "path": "assets/laddersdrill.jpg",
+      "sha1": "8100bb441fb1fba9261c62935bb80090ebfb905c"
+    },
+    {
+      "path": "assets/latAgility.png",
+      "sha1": "a58e1cf471a1bf8475e71aa70ad25d94661e7fc4"
+    },
+    {
+      "path": "assets/latBlocking.png",
+      "sha1": "d1944546513d1b2b915905e9b225b80ce70550e1"
+    },
+    {
+      "path": "assets/latCoordination.png",
+      "sha1": "d21b5d3f8b817621538133adf201f5450aef465b"
+    },
+    {
+      "path": "assets/latEndurance.png",
+      "sha1": "9929bda4fc762013279eafcecc28e47146e16b2f"
+    },
+    {
+      "path": "assets/lateralBounds.mp4",
+      "sha1": "6bd82acea43c90c4a3798def04dd6b5b8ab03153"
+    },
+    {
+      "path": "assets/lateralRaise.mp4",
+      "sha1": "b619bbdc66050052860d8f2f7f09597946d6b266"
+    },
+    {
+      "path": "assets/latFlexibility.png",
+      "sha1": "672d6d7e736d3c18b212ec95aa264846f82e8450"
+    },
+    {
+      "path": "assets/latOverhand.png",
+      "sha1": "2e4a004ae12c90d022eab44250085292982a675d"
+    },
+    {
+      "path": "assets/latPower.png",
+      "sha1": "7dcbdce9772fe45d712f3fc3079823d9c69ec445"
+    },
+    {
+      "path": "assets/latPullDown.mp4",
+      "sha1": "cc454daa65efdb6e603d957f77cc244a6a975f04"
+    },
+    {
+      "path": "assets/latSpeed.png",
+      "sha1": "40c3156a2274a440f7cd79b709fd43f24f546f6e"
+    },
+    {
+      "path": "assets/latSpike.png",
+      "sha1": "71f9c21e122b48f33067ffd8d66ce8159897e749"
+    },
+    {
+      "path": "assets/latStrength.png",
+      "sha1": "fc5da5c67bd0c5540aa590cdb3f3c3fe8cd61877"
+    },
+    {
+      "path": "assets/latUnder.png",
+      "sha1": "cca384e66b6e5ecfb6adf4942fd41f3f7ff5a8a7"
+    },
+    {
+      "path": "assets/legextension.mp4",
+      "sha1": "6bd2afb24bc9365f2b08d19b9b1f076b536a7b78"
+    },
+    {
+      "path": "assets/legPress.mp4",
+      "sha1": "57c5824f0f12b7a3be392b7e2ea0d8fa7261461d"
+    },
+    {
+      "path": "assets/legraise.mp4",
+      "sha1": "fc0dd359234623ff8bcf7710926ffd63e6e61f36"
+    },
+    {
+      "path": "assets/logo_unj.png",
+      "sha1": "bc984a3b0378ba50a7d423ffaa950950f32eceb5"
+    },
+    {
+      "path": "assets/lunges.mp4",
+      "sha1": "81e72982f915d621ce07fd16fd12f60250933dd5"
+    },
+    {
+      "path": "assets/medicineballchestpass.jpg",
+      "sha1": "198dfb6e493332b746ec3f86439f2f92092cb5f8"
+    },
+    {
+      "path": "assets/medicineballoverheadslam.mp4",
+      "sha1": "cb3b267ddeca803b9c8218762c2b155dbce6aeba"
+    },
+    {
+      "path": "assets/mountainClimber.mp4",
+      "sha1": "6d45b416664cf9142546ee253b58379bfd56e8ee"
+    },
+    {
+      "path": "assets/mov_bbb.mp4",
+      "sha1": "438ad3bf24fed937085ffa101ed06cdb23e30007"
+    },
+    {
+      "path": "assets/oblique.mp4",
+      "sha1": "03dcee9678b5d120276b08a5780c96db6bfebd33"
+    },
+    {
+      "path": "assets/physic.png",
+      "sha1": "f4f8d64a9ec37f41da2c48d9b53c25fd71a0d15e"
+    },
+    {
+      "path": "assets/pikePushUp.mp4",
+      "sha1": "3e7f9e9db41f6d91fa15e73ee8f6ab43a24151f5"
+    },
+    {
+      "path": "assets/plank.mp4",
+      "sha1": "035cd270dbb29cc273160095b75d5ac358cc4f1d"
+    },
+    {
+      "path": "assets/plankwitharmreach.jpg",
+      "sha1": "e22d546972100b7238e5df4139aeb109dd5926bc"
+    },
+    {
+      "path": "assets/plankwithleglift.jpg",
+      "sha1": "b89ed048e996d0d09f0d0d5b2b5e2f8aeacc6a7e"
+    },
+    {
+      "path": "assets/plyometricPushUp.mp4",
+      "sha1": "67048a3781a90b7346d976a5f390a13e38c57e27"
+    },
+    {
+      "path": "assets/power.png",
+      "sha1": "29b1aeb425bec94ebda902c7dd6a2e698683f0fd"
+    },
+    {
+      "path": "assets/powerClean.mp4",
+      "sha1": "d6a317015a7ca92e2b0352d8c1b3f1dd06cfe27d"
+    },
+    {
+      "path": "assets/pullUp.mp4",
+      "sha1": "0ca102dec5fc51b973b2d3bc31246bd76434809b"
+    },
+    {
+      "path": "assets/rearBelt.mp4",
+      "sha1": "ae9a9e50bd42c34bc296ad8caa2d0c00dfdca43e"
+    },
+    {
+      "path": "assets/rearBeltFly.mp4",
+      "sha1": "0deeeaa6f7d855afab77766c00cbb580b1462e75"
+    },
+    {
+      "path": "assets/reclinedtwist.jpg",
+      "sha1": "3f17c8c8453ccace8e74f6b9228c7a6bf3b06839"
+    },
+    {
+      "path": "assets/regularPushUp.mp4",
+      "sha1": "336b7064828732441699b51f42c0d0af065da28c"
+    },
+    {
+      "path": "assets/reverseplank.jpg",
+      "sha1": "a26ae4aee5ca2732d0b5d0b72d475e658b8d5dbd"
+    },
+    {
+      "path": "assets/russiantwist.mp4",
+      "sha1": "12abc57cb4cab38f64fd81f26322c77516477bdf"
+    },
+    {
+      "path": "assets/seatedCableRow.mp4",
+      "sha1": "ae0565455c7c93bdd48e8ba22b222c0a55710527"
+    },
+    {
+      "path": "assets/servis.png",
+      "sha1": "c338c533d98e9d1ba76662b73d87f9826bf48638"
+    },
+    {
+      "path": "assets/shoulderTap.mp4",
+      "sha1": "7f78cb4172241ab43c6d4054c265fc956145e7c8"
+    },
+    {
+      "path": "assets/shuttlerun.jpg",
+      "sha1": "b9c35acba7fa2bc30202655e342360d6db113288"
+    },
+    {
+      "path": "assets/sideplank.jpg",
+      "sha1": "7bc1da8030e0236da926da762e18c1f07ec80c6f"
+    },
+    {
+      "path": "assets/sitandreach.jpg",
+      "sha1": "f04bac64dcf64aa4b69dc709fd4b8ab2437417ec"
+    },
+    {
+      "path": "assets/skipping.mp4",
+      "sha1": "3b03fe8ab273fbc25e472d5f1be146902ef9fe15"
+    },
+    {
+      "path": "assets/slams.mp4",
+      "sha1": "128468aa58b08ca577621bad471d422a4bbe0734"
+    },
+    {
+      "path": "assets/slider/Fisik.png",
+      "sha1": "983cca972513f4f9ba141ff29080c59cf9b3d8b1"
+    },
+    {
+      "path": "assets/slider/teknik.png",
+      "sha1": "9b01f31ed77cfa6cbbc737fec3fe897557848074"
+    },
+    {
+      "path": "assets/snakes.mp4",
+      "sha1": "df7b2495cc151f1c20021a2c27e5e28192d21d48"
+    },
+    {
+      "path": "assets/soulderPress.mp4",
+      "sha1": "a6c9d132ac323ae7681808e40c10ee068c6fb99c"
+    },
+    {
+      "path": "assets/speed.png",
+      "sha1": "cb300a22b92e3d66b358955f9ed61e9ec26a7137"
+    },
+    {
+      "path": "assets/splashScreenBackground.png",
+      "sha1": "d4ed1f210137c7c41655e3766c242e4a4864f0ef"
+    },
+    {
+      "path": "assets/sprintjarakpendek.jpg",
+      "sha1": "f8426b55cc3426bd5785d58d99f0f592e53ce253"
+    },
+    {
+      "path": "assets/sprintmenggunakanbeban.jpg",
+      "sha1": "3fad6c096a814e68e46ddf81d28214b00d9bb867"
+    },
+    {
+      "path": "assets/squat.mp4",
+      "sha1": "cd5f359ca4511e3b073dcd481186468c9382827d"
+    },
+    {
+      "path": "assets/staggeredPushUp.mp4",
+      "sha1": "33859f247d0e2108ee4ff9bff52bde9b0b9bb6d4"
+    },
+    {
+      "path": "assets/strenght.png",
+      "sha1": "d1a7b386f7ec2aea7963e13daf8cff284f6d7016"
+    },
+    {
+      "path": "assets/stretch.jpg",
+      "sha1": "af0f95521a003379c36d246fa79bac20dc4866a2"
+    },
+    {
+      "path": "assets/sumosquat.mp4",
+      "sha1": "7fb3f5ba838a292a2cf481b68e4dc040e743821c"
+    },
+    {
+      "path": "assets/supermanBackUp.mp4",
+      "sha1": "c87529c01dc9f6e62675581daa9d12d8ff82e860"
+    },
+    {
+      "path": "assets/supermanplank.jpg",
+      "sha1": "9a1cbb72c708ed2f59bc8ceed3e3036bc387ed82"
+    },
+    {
+      "path": "assets/swing.mp4",
+      "sha1": "49ae32f4f2700199b4ecc739b2bccb9773133e65"
+    },
+    {
+      "path": "assets/threadtheneedle.jpg",
+      "sha1": "6a8479f2a312cf861a43ad278288c538d4d052db"
+    },
+    {
+      "path": "assets/toetouch.mp4",
+      "sha1": "97145b096ab8972152f05d913b25f0ae00ac2646"
+    },
+    {
+      "path": "assets/towelPullUp.mp4",
+      "sha1": "1a84adffa456d88091c75c82d11afa21222be4b8"
+    },
+    {
+      "path": "assets/tricepsExtension.mp4",
+      "sha1": "ddcfbcd6ce3f0e202ee256cdca7a9336ec60f127"
+    },
+    {
+      "path": "assets/tricepsKickBack.mp4",
+      "sha1": "b79d8094bc6610da4ddb154effb8fdab8d2e195d"
+    },
+    {
+      "path": "assets/tuckjumps.mp4",
+      "sha1": "cdd1c605190f8246932b06de31011a294f3c9981"
+    },
+    {
+      "path": "assets/volleyLogo.png",
+      "sha1": "da29e82e9f61012191bcfef8a82f81ac4c8f0eea"
+    },
+    {
+      "path": "assets/vup.mp4",
+      "sha1": "f0fb55844e751a660bb65d03a1b78a3beebc52d2"
+    },
+    {
+      "path": "assets/wallsit.jpg",
+      "sha1": "d7c1255cf28358f14633e7508989ac37220e6648"
+    },
+    {
+      "path": "assets/widePushUp.mp4",
+      "sha1": "11633c09f63bac2dc6b16b4e822677ca38dd92e7"
+    },
+    {
+      "path": "assets/woman.jpeg",
+      "sha1": "c9a37b90af92d8bae44acc404359d33302a361b1"
+    },
+    {
+      "path": "assets/wristCurl.mp4",
+      "sha1": "8560c945becf0ed944b8ec2435ad18e11214a859"
+    },
+    {
+      "path": "assets/zigzagsprint.png",
+      "sha1": "82fde9b52bdb959483a5801e210ac24996c35d34"
+    }
+  ]
+}

@@ -11,6 +11,152 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AC72E6D7250C48128460FCDF /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB3C4297ABE54F9098A10518 /* Poppins-Bold.ttf */; };
+		B955B2DB77464CB58112CB48 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D3234EFBB8104698B248EC6A /* Poppins-Regular.ttf */; };
+		9059083A29CB46CDA0ACF1B0 /* agility.png in Resources */ = {isa = PBXBuildFile; fileRef = 37B4475A1ED84A13877575FB /* agility.png */; };
+		E450F6CD33AC496BBF5BB4FD /* backup.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 3AF34CB6B59144749292524F /* backup.mp4 */; };
+		504E09BA67324262BD8EEC66 /* benchDips.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A5A8FDFA2C434C418D4DDFD1 /* benchDips.mp4 */; };
+		93619B0B53F242FBA24852EB /* benchPress.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 75ECF1FD0565423283226518 /* benchPress.mp4 */; };
+		706EFDB2F8D04EDD923D0954 /* bentOverRow.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 573ABCC600FF45849BCF4365 /* bentOverRow.mp4 */; };
+		03C752AF6BDD4CD9AE1B9B73 /* bicepsBarbelCurl.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C028A3A22311452BB2CC9F82 /* bicepsBarbelCurl.mp4 */; };
+		42EBDDBCA0B74D5D83D247CB /* bicepsCurl.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A70E36A17C0840A8916FDC70 /* bicepsCurl.mp4 */; };
+		AD9C1B52D90447E9B07124AB /* boxjumps.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21965962ADDB44E6BCB9B37A /* boxjumps.jpg */; };
+		0F91885FD56C4F3798B13628 /* bridge.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 3E89229CE0484DC89F0864C7 /* bridge.mp4 */; };
+		C49298223D124F65BF2BA16F /* bulgarianSplit.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FE4092835CE143E2A4563691 /* bulgarianSplit.mp4 */; };
+		2D6E756ACCE54EFDA9426CFC /* butterfly.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CDCC7CDC9EF54E7DBC5909AB /* butterfly.mp4 */; };
+		95C75C5DC3A6440896E72691 /* butterfly2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E44CC7B1147346CCB5FB482E /* butterfly2.jpg */; };
+		E98EDB928A984794AFC7C6A9 /* cabbleCrunch.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C2AE1073B704FB995893FBE /* cabbleCrunch.mp4 */; };
+		4FF09A0EA813495EBAF7B396 /* cableRobExtension.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = ACAC6150CF4549859CCFB692 /* cableRobExtension.mp4 */; };
+		20792006C2E541249A56D9AA /* calfRise.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 38921FEA4F5242A3A64FD04A /* calfRise.mp4 */; };
+		81D458568D0C4F6088A8818A /* chestFly.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C638A505B3204102AED7A9ED /* chestFly.mp4 */; };
+		383BB3A0FFF64E71B7C29F60 /* childpose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F6A759220E5844B1B5D74150 /* childpose.jpg */; };
+		8ABAC9DFED0940049C1A4F6F /* clappushup.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9BB0CFABB461447FAA8EF4D1 /* clappushup.mp4 */; };
+		B8BDF6F2A7B0408BBBCE5A3D /* climberTwist.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 281DE9A0B1B249EE81B2C783 /* climberTwist.mp4 */; };
+		7EB39255F6094E6FA81CE639 /* cobrapose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BFCC911248554CC682E1FC3B /* cobrapose.jpg */; };
+		17CFBDC76F8B41C69E0B5729 /* coordination.png in Resources */ = {isa = PBXBuildFile; fileRef = AE7D934801354DF39FF013A9 /* coordination.png */; };
+		75C240E3CB2A4FC2BFCDA041 /* crunch.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9620BF7E07F1446B9276CA93 /* crunch.mp4 */; };
+		0C36CCF7A05E44DB90F3BC46 /* cycling.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A99C9BE16E3741669633BC2F /* cycling.mp4 */; };
+		1D6F4F9BC8B14A388673922A /* dayatahan.png in Resources */ = {isa = PBXBuildFile; fileRef = ADFF54286B9947C99BB7554B /* dayatahan.png */; };
+		679E5F33231642D7BDC8EE5C /* deadbug.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8677B7C39E774183A437393C /* deadbug.mp4 */; };
+		68025F31565B4AE0B390CD57 /* deadLift.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6D6FBD7445B74DAFAAFFE038 /* deadLift.mp4 */; };
+		5F65723EC3FA4C93BCD7A860 /* deadLift2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 14806DB9AEF2442AA4FCA13B /* deadLift2.mp4 */; };
+		00423BA56D5445F2BB0A2548 /* deadlift2vid.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9F2C37A4D38945D39BCFB2EB /* deadlift2vid.mp4 */; };
+		2DA96FD5AF2D41CD959144F6 /* declineBechPress.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DFADBC29AB9B4CBABC0A4C26 /* declineBechPress.mp4 */; };
+		B7C3CF0B2D11412D92310B60 /* declinePushUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FF9DFA8D198B4FFE8FED1DC6 /* declinePushUp.mp4 */; };
+		65BCAC97E5A5469B83C1456B /* depthJumps.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8E062C3DA70D4E20B68BDD85 /* depthJumps.mp4 */; };
+		0D140600C2B649D795CA6455 /* diamondPushUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 03BEB3B5079A44BCA9FD2BCC /* diamondPushUp.mp4 */; };
+		7CDFCA3C08E842DD9E9036DA /* downwarddog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FD3394BAD86420FB5FF19C6 /* downwarddog.jpg */; };
+		278097BD83C842E7AC7C1820 /* dumbbellBrenchPress.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 510C3D8A130C4461B9C71994 /* dumbbellBrenchPress.mp4 */; };
+		3F4CAA2AAD4F4068ABCCB157 /* dumbbellbrenchpress1.json in Resources */ = {isa = PBXBuildFile; fileRef = CEEA0EA434AC415A902BB28D /* dumbbellbrenchpress1.json */; };
+		890FF3B28A154BF1890A9EF4 /* dumbbellLegExtension.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B97DF434D96A49E2AEE22B19 /* dumbbellLegExtension.mp4 */; };
+		20A9C19F10534BB09D5844A0 /* dumbbellLunges.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4A703852B87D4EF79608B41D /* dumbbellLunges.mp4 */; };
+		060B8582A34A4253931D2B06 /* dumbbellRow.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 895FB2B38338457997CFED96 /* dumbbellRow.mp4 */; };
+		A4C36990E42C426BAA99EBF4 /* eurofit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20394FD6EAA545119C7CFB5B /* eurofit.jpg */; };
+		4CB738624EC7436EA8E29FD8 /* flexibility.png in Resources */ = {isa = PBXBuildFile; fileRef = 42E24AD420F944A296C52B78 /* flexibility.png */; };
+		AA5A1238820F407D90DB08B4 /* flutterKick.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2E080EC643224C15A52F093F /* flutterKick.mp4 */; };
+		B9AA251B02A44935AC74293F /* forwardlunge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 30B3C9C475EC43A485F420A4 /* forwardlunge.jpg */; };
+		F88566705C524C68B9B2E312 /* frontRaise.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1CB8BD4BBE4040B5BDA6F287 /* frontRaise.mp4 */; };
+		D90DFE1736C244D4A520F083 /* halfSquad.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F959FC823E9A4ED09D1C646B /* halfSquad.mp4 */; };
+		390CB621A69647299F996B4E /* hamstringCurl.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 577D197B6872407A9BC0F385 /* hamstringCurl.mp4 */; };
+		EDCD5ECF9E174156AD82E5AA /* headerbg.png in Resources */ = {isa = PBXBuildFile; fileRef = DCF44A89A0504EB59A56DB43 /* headerbg.png */; };
+		B610081513674E29B60E425E /* heeltouch.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B47248C0EE71439DB7047852 /* heeltouch.mp4 */; };
+		8448BBD65D9E4ACABD3E0E51 /* highplank1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E354DDD4BBFE4B6D803B2010 /* highplank1.jpg */; };
+		4E45341A914D4468B0C3065A /* highplank2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2CC16FF662844CA6A9D8F275 /* highplank2.jpg */; };
+		F26B87C088C24359B0CB59B8 /* hipThrust.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0775F9E6E9CC4AE0ACB517DA /* hipThrust.mp4 */; };
+		38130FEFBD1848E68C6BFAC6 /* hummerCurl.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = ACAD8EB3F2A24774A51E088D /* hummerCurl.mp4 */; };
+		9B49FD5BB7554086AD84BF55 /* inclineBenchPress.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 906F35C9CDD54F908DE2705E /* inclineBenchPress.mp4 */; };
+		6126AE79CAD949769FAB2C2C /* inclinePushUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 096A00049B044432B18F49EB /* inclinePushUp.mp4 */; };
+		4FAC91B0568642DFAD073136 /* jumpingjack.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 94090E2E81AE4AEC89AE818D /* jumpingjack.mp4 */; };
+		7EBC5718DBBD45C28AAFFC65 /* jumpSquats.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 55FA0863538E4B0FB7ECC070 /* jumpSquats.mp4 */; };
+		58F8AD06A76B4E95B8AA3D74 /* jumpwithhurdle1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8E9FAD573C9F41C29347DC84 /* jumpwithhurdle1.mp4 */; };
+		54AF158996D1471797AE3AE1 /* jumpwithhurdle2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 008105F0717F48AC9980DF81 /* jumpwithhurdle2.mp4 */; };
+		FDE00894B3724CDD901F2D5E /* jumpWithHurdle3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A1547934B5C64A1388D6ED88 /* jumpWithHurdle3.mp4 */; };
+		C8066F8549404CB3ADEA043A /* jumpwithhurdle4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0ADA5D19569547E0A0CB2061 /* jumpwithhurdle4.mp4 */; };
+		8CA5BC8152F646D5B2360923 /* jumpWithHurdle5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6FA01BD11B61483288D5216B /* jumpWithHurdle5.mp4 */; };
+		C779D71EC1554EF1B2E04643 /* kneeldownJumpTucks.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 101EA0385A714949829DF701 /* kneeldownJumpTucks.mp4 */; };
+		A5D6E31DC22E461CB6F21293 /* kneeldownToJumpSquat.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A9F0057B9AB24FCBAEA2FEF7 /* kneeldownToJumpSquat.mp4 */; };
+		F17C758E8FDA403398857456 /* kneelingdownstrecth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A0544309A8624364878DE04E /* kneelingdownstrecth.jpg */; };
+		409D415CEAE941F88D0BB143 /* kneelinghamstring.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0134509FC36A46FAACF5E55A /* kneelinghamstring.jpg */; };
+		C43CA5AFE2AA42B3AEA28577 /* kneeTucks.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2436197C83D04586A06C8300 /* kneeTucks.mp4 */; };
+		B2E2E3316D284C359326CF9E /* laddersdrill.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A321231CAC642719DED807F /* laddersdrill.jpg */; };
+		852CEB6EC577422ABD3CDFB5 /* latAgility.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B6F33BBF7DD4C78BE0A3A96 /* latAgility.png */; };
+		764C7C11B0DB4EE99CA8E9C2 /* latBlocking.png in Resources */ = {isa = PBXBuildFile; fileRef = A212D5DFA35D451493563713 /* latBlocking.png */; };
+		41B10C58905948818CB102B9 /* latCoordination.png in Resources */ = {isa = PBXBuildFile; fileRef = 110ED00BBDB948B5BF9030A1 /* latCoordination.png */; };
+		A5EBF5D4CFB743F0A6B91078 /* latEndurance.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FE7E5DFEF8D4324A8F7C31F /* latEndurance.png */; };
+		F87DFD69C28F482083630971 /* lateralBounds.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 587A80E488CD45F4B43EB9D3 /* lateralBounds.mp4 */; };
+		CE464FFD8E354188B2DAB54F /* lateralRaise.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 453F90857000494BAAB9065E /* lateralRaise.mp4 */; };
+		8EBE98B8CF2F4A0C8BD41048 /* latFlexibility.png in Resources */ = {isa = PBXBuildFile; fileRef = 136F80D30D7B4E7DA02B2A34 /* latFlexibility.png */; };
+		C1C84E9F147D4CE994C08E3B /* latOverhand.png in Resources */ = {isa = PBXBuildFile; fileRef = 73B91251854D4817A1145D0E /* latOverhand.png */; };
+		5CCC34FE42E543228E6CEE24 /* latPower.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D9933B2E5314C1198B874EA /* latPower.png */; };
+		88FBDAC97DC648E2A3E5B3E4 /* latPullDown.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 164E3914C6944223888B1BEE /* latPullDown.mp4 */; };
+		16A0FE03B14A4AE5B5E38B69 /* latSpeed.png in Resources */ = {isa = PBXBuildFile; fileRef = 42B44ADF3AD24AF7B850C879 /* latSpeed.png */; };
+		8C612625ADA74CE798B76B65 /* latSpike.png in Resources */ = {isa = PBXBuildFile; fileRef = 3691785942864D578D459471 /* latSpike.png */; };
+		B24AEFE22CCA47D5890CD51A /* latStrength.png in Resources */ = {isa = PBXBuildFile; fileRef = E3FE7A8AE16941318F9301B9 /* latStrength.png */; };
+		D260339517DC43D7A3041055 /* latUnder.png in Resources */ = {isa = PBXBuildFile; fileRef = 05A82280347248AABCC91CBF /* latUnder.png */; };
+		85A4D82EF54A4C749C83CCA2 /* legextension.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2A2F902C5ECD4F1CBC25E013 /* legextension.mp4 */; };
+		4E8E456F70BC4C0FA4D5C26A /* legPress.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E9731A137D8C4A178B79E170 /* legPress.mp4 */; };
+		03B3FB06FDEF43638D5D4A42 /* legraise.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DF4A79885DFD4FC9A53DC9C8 /* legraise.mp4 */; };
+		4C0F35F57AE74BAD97FC4553 /* logo_unj.png in Resources */ = {isa = PBXBuildFile; fileRef = 375D49898E5B48C796C52AE6 /* logo_unj.png */; };
+		07C7F96B53CB4A5D8FBBBC79 /* lunges.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EA336591D2B04E4BA0948170 /* lunges.mp4 */; };
+		6A5844E3B7574934A6CB19F5 /* medicineballchestpass.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2BA6BAB7DAB48C9B66D9951 /* medicineballchestpass.jpg */; };
+		4C95FE3732834FA6A3EC42A4 /* medicineballoverheadslam.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D62D665F0FC143AEAAE07331 /* medicineballoverheadslam.mp4 */; };
+		CFAF7C01E1494283A731A609 /* mountainClimber.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 17CA210C10AB49DAB61A9146 /* mountainClimber.mp4 */; };
+		4F5920E106EC45D2A2511B09 /* mov_bbb.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9EB904DD13FE443E9601ED3E /* mov_bbb.mp4 */; };
+		1082218FC57D49E5B876ABDE /* oblique.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B864902CC10D4BE2B3C46DCE /* oblique.mp4 */; };
+		74638F3D192B44809A98D0D7 /* physic.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A8FAECB1FD74FB6A37E6DA9 /* physic.png */; };
+		A814E1FA411E41A99F374D3F /* pikePushUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 581DC9EE16034E6B8F601F5A /* pikePushUp.mp4 */; };
+		0FE4F53A1C134DD2A65D3D20 /* plank.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 809C500F88D7430FAB6188AD /* plank.mp4 */; };
+		555C37BAA24A41639C9A140F /* plankwitharmreach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C40C5D5BE23C4E08919DC269 /* plankwitharmreach.jpg */; };
+		ABD1AB55CA714B9D894DEB1C /* plankwithleglift.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C1A0A15FA75744E79B74E073 /* plankwithleglift.jpg */; };
+		55507206C10D41A0AC5132F8 /* plyometricPushUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 65CE695C4CC54A10BD4EC6D1 /* plyometricPushUp.mp4 */; };
+		4856881AA9E3431E91C3D767 /* power.png in Resources */ = {isa = PBXBuildFile; fileRef = B273890A6B4C456DBFC82DDF /* power.png */; };
+		0E2EC7189DB24811863B9932 /* powerClean.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EA2B895401E9476FA2C8BA1F /* powerClean.mp4 */; };
+		C34B25DE694E45538C9C92C9 /* pullUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6CF7E180E3AA4E3BB9DD8A6C /* pullUp.mp4 */; };
+		4FDC586D36764E9F96BC8FD3 /* rearBelt.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 08225D5CCE3140CF8BC91D39 /* rearBelt.mp4 */; };
+		CE4D7ABE2D344097B0328EA9 /* rearBeltFly.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 48448566CE1140A4AD774641 /* rearBeltFly.mp4 */; };
+		CDCB2457FE7441A9A60A4786 /* reclinedtwist.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C566DF7CFAF4FD8BFB98BB0 /* reclinedtwist.jpg */; };
+		D93E788D28684665A76E986F /* regularPushUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 01A91650D6DD474BB283C637 /* regularPushUp.mp4 */; };
+		8E2AA7DBB28F44778DA7BB8C /* reverseplank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DBAC488A3CED498B86882490 /* reverseplank.jpg */; };
+		AA55B959FD774448BCF7F71A /* russiantwist.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 929B9A30828C4405915904B6 /* russiantwist.mp4 */; };
+		4AB3F9444FC34BF7940ED40A /* seatedCableRow.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9ADF41E570CF486B81015987 /* seatedCableRow.mp4 */; };
+		D0D60164F4B2482982CB1530 /* servis.png in Resources */ = {isa = PBXBuildFile; fileRef = EBC2B9E6035E4EACB14A911D /* servis.png */; };
+		CE979CCA028D422AAFD9DB84 /* shoulderTap.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E3E5AC6E06A44A50B623CCC2 /* shoulderTap.mp4 */; };
+		66D02B3A91C04BC29811BE41 /* shuttlerun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E7671D6568E4B74BAFC14ED /* shuttlerun.jpg */; };
+		08BD3057837B4AFCB6AB6B59 /* sideplank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 06CB6B867EDA4847A8B45229 /* sideplank.jpg */; };
+		C6BF21AFDD26404B9CE115DE /* sitandreach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C517250497274B8AA2CA8A6C /* sitandreach.jpg */; };
+		33DD1B92EABC4BF782992B53 /* skipping.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 85DB2E6F401B447E9BEBB41A /* skipping.mp4 */; };
+		9B51D34C54F0444FA3D25288 /* slams.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B6C3BA79C419484B82515728 /* slams.mp4 */; };
+		6AE72906602A46B2B246A200 /* Fisik.png in Resources */ = {isa = PBXBuildFile; fileRef = 75EAB2BE88DE4969AD7865C2 /* Fisik.png */; };
+		A1572A9B6A1F483A946C70BA /* teknik.png in Resources */ = {isa = PBXBuildFile; fileRef = 53B5DBD3C68446DAB71304C3 /* teknik.png */; };
+		9503BC489CE04E299B06425F /* snakes.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 04928BFCB5594FFEBB64FC22 /* snakes.mp4 */; };
+		9913674B5D954BD1A3A7CBC3 /* soulderPress.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = DF5B484A76E24BE6952DD5F1 /* soulderPress.mp4 */; };
+		808B2637ADC542F0AE992CE2 /* speed.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CB56D4C8181461697A769DE /* speed.png */; };
+		304A72702C164600BB4F88D8 /* splashScreenBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F8A6CABAF204E7FA93AF8C7 /* splashScreenBackground.png */; };
+		8349A4BC5ED242CB9396FC8E /* sprintjarakpendek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F28B18223AD425FA23472C1 /* sprintjarakpendek.jpg */; };
+		0F987A449EAC41BE8F271143 /* sprintmenggunakanbeban.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 094004E1867C46599559244A /* sprintmenggunakanbeban.jpg */; };
+		61D7D696BEDA4FCA96CED0E0 /* squat.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 555C4507CC6C4A54831DF1DB /* squat.mp4 */; };
+		8417857BC9644EAABDDEB6D5 /* staggeredPushUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B1B1C82A8FFD473594B4C6AA /* staggeredPushUp.mp4 */; };
+		7C215C3DE81141DE8E16ED13 /* strenght.png in Resources */ = {isa = PBXBuildFile; fileRef = AF942799C44B441D86E63A5B /* strenght.png */; };
+		3DDC98D850E147469638E395 /* sumosquat.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C658ABA4B432464C87417ECA /* sumosquat.mp4 */; };
+		C2DA9B1D71724A15ABE9F240 /* supermanBackUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7D8ECE1DC0BE47B5913CF61B /* supermanBackUp.mp4 */; };
+		C104F75F48B148B8A677E792 /* supermanplank.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 018AE164EF274DD3A5E6F02B /* supermanplank.jpg */; };
+		FA04F9240BE3476E854F2A40 /* swing.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BD1B795FC5D24DFFBE4F5B52 /* swing.mp4 */; };
+		DAD7247C287B48CCA794DC05 /* threadtheneedle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BD755556B82647DA83636B63 /* threadtheneedle.jpg */; };
+		E486FA42D9A94C66BC807EAF /* toetouch.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1F376E3B6D46348BC10D8E /* toetouch.mp4 */; };
+		465A223020734D0F82D6D3A9 /* towelPullUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 28EE4E58498C4E52B8EFB8B1 /* towelPullUp.mp4 */; };
+		1B5612ADF3C54D3893E1DC82 /* tricepsExtension.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0807C35F1FB14E808E3C9999 /* tricepsExtension.mp4 */; };
+		EA9A462FD16D46F79538E249 /* tricepsKickBack.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 775E6ABF82D34C41BF21518F /* tricepsKickBack.mp4 */; };
+		40265150833F42AFA1B834BC /* tuckjumps.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 14F6626ADBAA415BA42F4ED5 /* tuckjumps.mp4 */; };
+		9C06EB42DD6B42B9847B39AA /* volleyLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AEACCD197DFE46819D31C355 /* volleyLogo.png */; };
+		2A8284C26E884FA18C922EC2 /* vup.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C62F06B28B9A42B2906DDE48 /* vup.mp4 */; };
+		8C3CB75F5B0B45E6A6D1D932 /* wallsit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55187A43EB4F4CD8926DBF65 /* wallsit.jpg */; };
+		AF95C77B01434717962DDFDF /* widePushUp.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = F67F0587A63D41D4BE74C61D /* widePushUp.mp4 */; };
+		2A98897B441148F1B03FF059 /* woman.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2479F5AE1BA3448D96C7D44C /* woman.jpeg */; };
+		7C378200F6BF40EC92DD3658 /* wristCurl.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 74B2F51ACB5F4E76907E22FF /* wristCurl.mp4 */; };
+		4DB5DA3FEE9B4515B6C52275 /* zigzagsprint.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A827E643A004D2AB5C464E5 /* zigzagsprint.png */; };
+		15B98FB63EF949D890B27D64 /* backextension.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B1C678B9697B4243BE0D278A /* backextension.mp4 */; };
+		963787A837794B739C4D1ABE /* barbellrow.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B45DB6065FF6483DA403F18A /* barbellrow.mp4 */; };
+		3A26114BA4CF472AAAE908AC /* stretch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D8EFE2AC497F4E33AAAE3493 /* stretch.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +181,152 @@
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = volleyApps/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = volleyApps/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		AB3C4297ABE54F9098A10518 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D3234EFBB8104698B248EC6A /* Poppins-Regular.ttf */ = {isa = PBXFileReference; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		37B4475A1ED84A13877575FB /* agility.png */ = {isa = PBXFileReference; name = "agility.png"; path = "../assets/agility.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3AF34CB6B59144749292524F /* backup.mp4 */ = {isa = PBXFileReference; name = "backup.mp4"; path = "../assets/backup.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A5A8FDFA2C434C418D4DDFD1 /* benchDips.mp4 */ = {isa = PBXFileReference; name = "benchDips.mp4"; path = "../assets/benchDips.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		75ECF1FD0565423283226518 /* benchPress.mp4 */ = {isa = PBXFileReference; name = "benchPress.mp4"; path = "../assets/benchPress.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		573ABCC600FF45849BCF4365 /* bentOverRow.mp4 */ = {isa = PBXFileReference; name = "bentOverRow.mp4"; path = "../assets/bentOverRow.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C028A3A22311452BB2CC9F82 /* bicepsBarbelCurl.mp4 */ = {isa = PBXFileReference; name = "bicepsBarbelCurl.mp4"; path = "../assets/bicepsBarbelCurl.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A70E36A17C0840A8916FDC70 /* bicepsCurl.mp4 */ = {isa = PBXFileReference; name = "bicepsCurl.mp4"; path = "../assets/bicepsCurl.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		21965962ADDB44E6BCB9B37A /* boxjumps.jpg */ = {isa = PBXFileReference; name = "boxjumps.jpg"; path = "../assets/boxjumps.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3E89229CE0484DC89F0864C7 /* bridge.mp4 */ = {isa = PBXFileReference; name = "bridge.mp4"; path = "../assets/bridge.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FE4092835CE143E2A4563691 /* bulgarianSplit.mp4 */ = {isa = PBXFileReference; name = "bulgarianSplit.mp4"; path = "../assets/bulgarianSplit.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CDCC7CDC9EF54E7DBC5909AB /* butterfly.mp4 */ = {isa = PBXFileReference; name = "butterfly.mp4"; path = "../assets/butterfly.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E44CC7B1147346CCB5FB482E /* butterfly2.jpg */ = {isa = PBXFileReference; name = "butterfly2.jpg"; path = "../assets/butterfly2.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2C2AE1073B704FB995893FBE /* cabbleCrunch.mp4 */ = {isa = PBXFileReference; name = "cabbleCrunch.mp4"; path = "../assets/cabbleCrunch.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ACAC6150CF4549859CCFB692 /* cableRobExtension.mp4 */ = {isa = PBXFileReference; name = "cableRobExtension.mp4"; path = "../assets/cableRobExtension.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		38921FEA4F5242A3A64FD04A /* calfRise.mp4 */ = {isa = PBXFileReference; name = "calfRise.mp4"; path = "../assets/calfRise.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C638A505B3204102AED7A9ED /* chestFly.mp4 */ = {isa = PBXFileReference; name = "chestFly.mp4"; path = "../assets/chestFly.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F6A759220E5844B1B5D74150 /* childpose.jpg */ = {isa = PBXFileReference; name = "childpose.jpg"; path = "../assets/childpose.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9BB0CFABB461447FAA8EF4D1 /* clappushup.mp4 */ = {isa = PBXFileReference; name = "clappushup.mp4"; path = "../assets/clappushup.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		281DE9A0B1B249EE81B2C783 /* climberTwist.mp4 */ = {isa = PBXFileReference; name = "climberTwist.mp4"; path = "../assets/climberTwist.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BFCC911248554CC682E1FC3B /* cobrapose.jpg */ = {isa = PBXFileReference; name = "cobrapose.jpg"; path = "../assets/cobrapose.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AE7D934801354DF39FF013A9 /* coordination.png */ = {isa = PBXFileReference; name = "coordination.png"; path = "../assets/coordination.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9620BF7E07F1446B9276CA93 /* crunch.mp4 */ = {isa = PBXFileReference; name = "crunch.mp4"; path = "../assets/crunch.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A99C9BE16E3741669633BC2F /* cycling.mp4 */ = {isa = PBXFileReference; name = "cycling.mp4"; path = "../assets/cycling.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ADFF54286B9947C99BB7554B /* dayatahan.png */ = {isa = PBXFileReference; name = "dayatahan.png"; path = "../assets/dayatahan.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8677B7C39E774183A437393C /* deadbug.mp4 */ = {isa = PBXFileReference; name = "deadbug.mp4"; path = "../assets/deadbug.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6D6FBD7445B74DAFAAFFE038 /* deadLift.mp4 */ = {isa = PBXFileReference; name = "deadLift.mp4"; path = "../assets/deadLift.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		14806DB9AEF2442AA4FCA13B /* deadLift2.mp4 */ = {isa = PBXFileReference; name = "deadLift2.mp4"; path = "../assets/deadLift2.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9F2C37A4D38945D39BCFB2EB /* deadlift2vid.mp4 */ = {isa = PBXFileReference; name = "deadlift2vid.mp4"; path = "../assets/deadlift2vid.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DFADBC29AB9B4CBABC0A4C26 /* declineBechPress.mp4 */ = {isa = PBXFileReference; name = "declineBechPress.mp4"; path = "../assets/declineBechPress.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FF9DFA8D198B4FFE8FED1DC6 /* declinePushUp.mp4 */ = {isa = PBXFileReference; name = "declinePushUp.mp4"; path = "../assets/declinePushUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8E062C3DA70D4E20B68BDD85 /* depthJumps.mp4 */ = {isa = PBXFileReference; name = "depthJumps.mp4"; path = "../assets/depthJumps.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		03BEB3B5079A44BCA9FD2BCC /* diamondPushUp.mp4 */ = {isa = PBXFileReference; name = "diamondPushUp.mp4"; path = "../assets/diamondPushUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2FD3394BAD86420FB5FF19C6 /* downwarddog.jpg */ = {isa = PBXFileReference; name = "downwarddog.jpg"; path = "../assets/downwarddog.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		510C3D8A130C4461B9C71994 /* dumbbellBrenchPress.mp4 */ = {isa = PBXFileReference; name = "dumbbellBrenchPress.mp4"; path = "../assets/dumbbellBrenchPress.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CEEA0EA434AC415A902BB28D /* dumbbellbrenchpress1.json */ = {isa = PBXFileReference; name = "dumbbellbrenchpress1.json"; path = "../assets/dumbbellbrenchpress1.json"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B97DF434D96A49E2AEE22B19 /* dumbbellLegExtension.mp4 */ = {isa = PBXFileReference; name = "dumbbellLegExtension.mp4"; path = "../assets/dumbbellLegExtension.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4A703852B87D4EF79608B41D /* dumbbellLunges.mp4 */ = {isa = PBXFileReference; name = "dumbbellLunges.mp4"; path = "../assets/dumbbellLunges.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		895FB2B38338457997CFED96 /* dumbbellRow.mp4 */ = {isa = PBXFileReference; name = "dumbbellRow.mp4"; path = "../assets/dumbbellRow.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		20394FD6EAA545119C7CFB5B /* eurofit.jpg */ = {isa = PBXFileReference; name = "eurofit.jpg"; path = "../assets/eurofit.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		42E24AD420F944A296C52B78 /* flexibility.png */ = {isa = PBXFileReference; name = "flexibility.png"; path = "../assets/flexibility.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2E080EC643224C15A52F093F /* flutterKick.mp4 */ = {isa = PBXFileReference; name = "flutterKick.mp4"; path = "../assets/flutterKick.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		30B3C9C475EC43A485F420A4 /* forwardlunge.jpg */ = {isa = PBXFileReference; name = "forwardlunge.jpg"; path = "../assets/forwardlunge.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1CB8BD4BBE4040B5BDA6F287 /* frontRaise.mp4 */ = {isa = PBXFileReference; name = "frontRaise.mp4"; path = "../assets/frontRaise.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F959FC823E9A4ED09D1C646B /* halfSquad.mp4 */ = {isa = PBXFileReference; name = "halfSquad.mp4"; path = "../assets/halfSquad.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		577D197B6872407A9BC0F385 /* hamstringCurl.mp4 */ = {isa = PBXFileReference; name = "hamstringCurl.mp4"; path = "../assets/hamstringCurl.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DCF44A89A0504EB59A56DB43 /* headerbg.png */ = {isa = PBXFileReference; name = "headerbg.png"; path = "../assets/headerbg.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B47248C0EE71439DB7047852 /* heeltouch.mp4 */ = {isa = PBXFileReference; name = "heeltouch.mp4"; path = "../assets/heeltouch.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E354DDD4BBFE4B6D803B2010 /* highplank1.jpg */ = {isa = PBXFileReference; name = "highplank1.jpg"; path = "../assets/highplank1.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2CC16FF662844CA6A9D8F275 /* highplank2.jpg */ = {isa = PBXFileReference; name = "highplank2.jpg"; path = "../assets/highplank2.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0775F9E6E9CC4AE0ACB517DA /* hipThrust.mp4 */ = {isa = PBXFileReference; name = "hipThrust.mp4"; path = "../assets/hipThrust.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ACAD8EB3F2A24774A51E088D /* hummerCurl.mp4 */ = {isa = PBXFileReference; name = "hummerCurl.mp4"; path = "../assets/hummerCurl.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		906F35C9CDD54F908DE2705E /* inclineBenchPress.mp4 */ = {isa = PBXFileReference; name = "inclineBenchPress.mp4"; path = "../assets/inclineBenchPress.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		096A00049B044432B18F49EB /* inclinePushUp.mp4 */ = {isa = PBXFileReference; name = "inclinePushUp.mp4"; path = "../assets/inclinePushUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		94090E2E81AE4AEC89AE818D /* jumpingjack.mp4 */ = {isa = PBXFileReference; name = "jumpingjack.mp4"; path = "../assets/jumpingjack.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		55FA0863538E4B0FB7ECC070 /* jumpSquats.mp4 */ = {isa = PBXFileReference; name = "jumpSquats.mp4"; path = "../assets/jumpSquats.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8E9FAD573C9F41C29347DC84 /* jumpwithhurdle1.mp4 */ = {isa = PBXFileReference; name = "jumpwithhurdle1.mp4"; path = "../assets/jumpwithhurdle1.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		008105F0717F48AC9980DF81 /* jumpwithhurdle2.mp4 */ = {isa = PBXFileReference; name = "jumpwithhurdle2.mp4"; path = "../assets/jumpwithhurdle2.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A1547934B5C64A1388D6ED88 /* jumpWithHurdle3.mp4 */ = {isa = PBXFileReference; name = "jumpWithHurdle3.mp4"; path = "../assets/jumpWithHurdle3.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0ADA5D19569547E0A0CB2061 /* jumpwithhurdle4.mp4 */ = {isa = PBXFileReference; name = "jumpwithhurdle4.mp4"; path = "../assets/jumpwithhurdle4.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6FA01BD11B61483288D5216B /* jumpWithHurdle5.mp4 */ = {isa = PBXFileReference; name = "jumpWithHurdle5.mp4"; path = "../assets/jumpWithHurdle5.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		101EA0385A714949829DF701 /* kneeldownJumpTucks.mp4 */ = {isa = PBXFileReference; name = "kneeldownJumpTucks.mp4"; path = "../assets/kneeldownJumpTucks.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A9F0057B9AB24FCBAEA2FEF7 /* kneeldownToJumpSquat.mp4 */ = {isa = PBXFileReference; name = "kneeldownToJumpSquat.mp4"; path = "../assets/kneeldownToJumpSquat.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A0544309A8624364878DE04E /* kneelingdownstrecth.jpg */ = {isa = PBXFileReference; name = "kneelingdownstrecth.jpg"; path = "../assets/kneelingdownstrecth.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0134509FC36A46FAACF5E55A /* kneelinghamstring.jpg */ = {isa = PBXFileReference; name = "kneelinghamstring.jpg"; path = "../assets/kneelinghamstring.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2436197C83D04586A06C8300 /* kneeTucks.mp4 */ = {isa = PBXFileReference; name = "kneeTucks.mp4"; path = "../assets/kneeTucks.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9A321231CAC642719DED807F /* laddersdrill.jpg */ = {isa = PBXFileReference; name = "laddersdrill.jpg"; path = "../assets/laddersdrill.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9B6F33BBF7DD4C78BE0A3A96 /* latAgility.png */ = {isa = PBXFileReference; name = "latAgility.png"; path = "../assets/latAgility.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A212D5DFA35D451493563713 /* latBlocking.png */ = {isa = PBXFileReference; name = "latBlocking.png"; path = "../assets/latBlocking.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		110ED00BBDB948B5BF9030A1 /* latCoordination.png */ = {isa = PBXFileReference; name = "latCoordination.png"; path = "../assets/latCoordination.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6FE7E5DFEF8D4324A8F7C31F /* latEndurance.png */ = {isa = PBXFileReference; name = "latEndurance.png"; path = "../assets/latEndurance.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		587A80E488CD45F4B43EB9D3 /* lateralBounds.mp4 */ = {isa = PBXFileReference; name = "lateralBounds.mp4"; path = "../assets/lateralBounds.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		453F90857000494BAAB9065E /* lateralRaise.mp4 */ = {isa = PBXFileReference; name = "lateralRaise.mp4"; path = "../assets/lateralRaise.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		136F80D30D7B4E7DA02B2A34 /* latFlexibility.png */ = {isa = PBXFileReference; name = "latFlexibility.png"; path = "../assets/latFlexibility.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		73B91251854D4817A1145D0E /* latOverhand.png */ = {isa = PBXFileReference; name = "latOverhand.png"; path = "../assets/latOverhand.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3D9933B2E5314C1198B874EA /* latPower.png */ = {isa = PBXFileReference; name = "latPower.png"; path = "../assets/latPower.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		164E3914C6944223888B1BEE /* latPullDown.mp4 */ = {isa = PBXFileReference; name = "latPullDown.mp4"; path = "../assets/latPullDown.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		42B44ADF3AD24AF7B850C879 /* latSpeed.png */ = {isa = PBXFileReference; name = "latSpeed.png"; path = "../assets/latSpeed.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3691785942864D578D459471 /* latSpike.png */ = {isa = PBXFileReference; name = "latSpike.png"; path = "../assets/latSpike.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E3FE7A8AE16941318F9301B9 /* latStrength.png */ = {isa = PBXFileReference; name = "latStrength.png"; path = "../assets/latStrength.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		05A82280347248AABCC91CBF /* latUnder.png */ = {isa = PBXFileReference; name = "latUnder.png"; path = "../assets/latUnder.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2A2F902C5ECD4F1CBC25E013 /* legextension.mp4 */ = {isa = PBXFileReference; name = "legextension.mp4"; path = "../assets/legextension.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E9731A137D8C4A178B79E170 /* legPress.mp4 */ = {isa = PBXFileReference; name = "legPress.mp4"; path = "../assets/legPress.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DF4A79885DFD4FC9A53DC9C8 /* legraise.mp4 */ = {isa = PBXFileReference; name = "legraise.mp4"; path = "../assets/legraise.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		375D49898E5B48C796C52AE6 /* logo_unj.png */ = {isa = PBXFileReference; name = "logo_unj.png"; path = "../assets/logo_unj.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA336591D2B04E4BA0948170 /* lunges.mp4 */ = {isa = PBXFileReference; name = "lunges.mp4"; path = "../assets/lunges.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A2BA6BAB7DAB48C9B66D9951 /* medicineballchestpass.jpg */ = {isa = PBXFileReference; name = "medicineballchestpass.jpg"; path = "../assets/medicineballchestpass.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D62D665F0FC143AEAAE07331 /* medicineballoverheadslam.mp4 */ = {isa = PBXFileReference; name = "medicineballoverheadslam.mp4"; path = "../assets/medicineballoverheadslam.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		17CA210C10AB49DAB61A9146 /* mountainClimber.mp4 */ = {isa = PBXFileReference; name = "mountainClimber.mp4"; path = "../assets/mountainClimber.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9EB904DD13FE443E9601ED3E /* mov_bbb.mp4 */ = {isa = PBXFileReference; name = "mov_bbb.mp4"; path = "../assets/mov_bbb.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B864902CC10D4BE2B3C46DCE /* oblique.mp4 */ = {isa = PBXFileReference; name = "oblique.mp4"; path = "../assets/oblique.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2A8FAECB1FD74FB6A37E6DA9 /* physic.png */ = {isa = PBXFileReference; name = "physic.png"; path = "../assets/physic.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		581DC9EE16034E6B8F601F5A /* pikePushUp.mp4 */ = {isa = PBXFileReference; name = "pikePushUp.mp4"; path = "../assets/pikePushUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		809C500F88D7430FAB6188AD /* plank.mp4 */ = {isa = PBXFileReference; name = "plank.mp4"; path = "../assets/plank.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C40C5D5BE23C4E08919DC269 /* plankwitharmreach.jpg */ = {isa = PBXFileReference; name = "plankwitharmreach.jpg"; path = "../assets/plankwitharmreach.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C1A0A15FA75744E79B74E073 /* plankwithleglift.jpg */ = {isa = PBXFileReference; name = "plankwithleglift.jpg"; path = "../assets/plankwithleglift.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		65CE695C4CC54A10BD4EC6D1 /* plyometricPushUp.mp4 */ = {isa = PBXFileReference; name = "plyometricPushUp.mp4"; path = "../assets/plyometricPushUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B273890A6B4C456DBFC82DDF /* power.png */ = {isa = PBXFileReference; name = "power.png"; path = "../assets/power.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA2B895401E9476FA2C8BA1F /* powerClean.mp4 */ = {isa = PBXFileReference; name = "powerClean.mp4"; path = "../assets/powerClean.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6CF7E180E3AA4E3BB9DD8A6C /* pullUp.mp4 */ = {isa = PBXFileReference; name = "pullUp.mp4"; path = "../assets/pullUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		08225D5CCE3140CF8BC91D39 /* rearBelt.mp4 */ = {isa = PBXFileReference; name = "rearBelt.mp4"; path = "../assets/rearBelt.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		48448566CE1140A4AD774641 /* rearBeltFly.mp4 */ = {isa = PBXFileReference; name = "rearBeltFly.mp4"; path = "../assets/rearBeltFly.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9C566DF7CFAF4FD8BFB98BB0 /* reclinedtwist.jpg */ = {isa = PBXFileReference; name = "reclinedtwist.jpg"; path = "../assets/reclinedtwist.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		01A91650D6DD474BB283C637 /* regularPushUp.mp4 */ = {isa = PBXFileReference; name = "regularPushUp.mp4"; path = "../assets/regularPushUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DBAC488A3CED498B86882490 /* reverseplank.jpg */ = {isa = PBXFileReference; name = "reverseplank.jpg"; path = "../assets/reverseplank.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		929B9A30828C4405915904B6 /* russiantwist.mp4 */ = {isa = PBXFileReference; name = "russiantwist.mp4"; path = "../assets/russiantwist.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9ADF41E570CF486B81015987 /* seatedCableRow.mp4 */ = {isa = PBXFileReference; name = "seatedCableRow.mp4"; path = "../assets/seatedCableRow.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EBC2B9E6035E4EACB14A911D /* servis.png */ = {isa = PBXFileReference; name = "servis.png"; path = "../assets/servis.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E3E5AC6E06A44A50B623CCC2 /* shoulderTap.mp4 */ = {isa = PBXFileReference; name = "shoulderTap.mp4"; path = "../assets/shoulderTap.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6E7671D6568E4B74BAFC14ED /* shuttlerun.jpg */ = {isa = PBXFileReference; name = "shuttlerun.jpg"; path = "../assets/shuttlerun.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		06CB6B867EDA4847A8B45229 /* sideplank.jpg */ = {isa = PBXFileReference; name = "sideplank.jpg"; path = "../assets/sideplank.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C517250497274B8AA2CA8A6C /* sitandreach.jpg */ = {isa = PBXFileReference; name = "sitandreach.jpg"; path = "../assets/sitandreach.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		85DB2E6F401B447E9BEBB41A /* skipping.mp4 */ = {isa = PBXFileReference; name = "skipping.mp4"; path = "../assets/skipping.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B6C3BA79C419484B82515728 /* slams.mp4 */ = {isa = PBXFileReference; name = "slams.mp4"; path = "../assets/slams.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		75EAB2BE88DE4969AD7865C2 /* Fisik.png */ = {isa = PBXFileReference; name = "Fisik.png"; path = "../assets/slider/Fisik.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		53B5DBD3C68446DAB71304C3 /* teknik.png */ = {isa = PBXFileReference; name = "teknik.png"; path = "../assets/slider/teknik.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		04928BFCB5594FFEBB64FC22 /* snakes.mp4 */ = {isa = PBXFileReference; name = "snakes.mp4"; path = "../assets/snakes.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DF5B484A76E24BE6952DD5F1 /* soulderPress.mp4 */ = {isa = PBXFileReference; name = "soulderPress.mp4"; path = "../assets/soulderPress.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1CB56D4C8181461697A769DE /* speed.png */ = {isa = PBXFileReference; name = "speed.png"; path = "../assets/speed.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4F8A6CABAF204E7FA93AF8C7 /* splashScreenBackground.png */ = {isa = PBXFileReference; name = "splashScreenBackground.png"; path = "../assets/splashScreenBackground.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8F28B18223AD425FA23472C1 /* sprintjarakpendek.jpg */ = {isa = PBXFileReference; name = "sprintjarakpendek.jpg"; path = "../assets/sprintjarakpendek.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		094004E1867C46599559244A /* sprintmenggunakanbeban.jpg */ = {isa = PBXFileReference; name = "sprintmenggunakanbeban.jpg"; path = "../assets/sprintmenggunakanbeban.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		555C4507CC6C4A54831DF1DB /* squat.mp4 */ = {isa = PBXFileReference; name = "squat.mp4"; path = "../assets/squat.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B1B1C82A8FFD473594B4C6AA /* staggeredPushUp.mp4 */ = {isa = PBXFileReference; name = "staggeredPushUp.mp4"; path = "../assets/staggeredPushUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AF942799C44B441D86E63A5B /* strenght.png */ = {isa = PBXFileReference; name = "strenght.png"; path = "../assets/strenght.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C658ABA4B432464C87417ECA /* sumosquat.mp4 */ = {isa = PBXFileReference; name = "sumosquat.mp4"; path = "../assets/sumosquat.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7D8ECE1DC0BE47B5913CF61B /* supermanBackUp.mp4 */ = {isa = PBXFileReference; name = "supermanBackUp.mp4"; path = "../assets/supermanBackUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		018AE164EF274DD3A5E6F02B /* supermanplank.jpg */ = {isa = PBXFileReference; name = "supermanplank.jpg"; path = "../assets/supermanplank.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BD1B795FC5D24DFFBE4F5B52 /* swing.mp4 */ = {isa = PBXFileReference; name = "swing.mp4"; path = "../assets/swing.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BD755556B82647DA83636B63 /* threadtheneedle.jpg */ = {isa = PBXFileReference; name = "threadtheneedle.jpg"; path = "../assets/threadtheneedle.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9D1F376E3B6D46348BC10D8E /* toetouch.mp4 */ = {isa = PBXFileReference; name = "toetouch.mp4"; path = "../assets/toetouch.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		28EE4E58498C4E52B8EFB8B1 /* towelPullUp.mp4 */ = {isa = PBXFileReference; name = "towelPullUp.mp4"; path = "../assets/towelPullUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0807C35F1FB14E808E3C9999 /* tricepsExtension.mp4 */ = {isa = PBXFileReference; name = "tricepsExtension.mp4"; path = "../assets/tricepsExtension.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		775E6ABF82D34C41BF21518F /* tricepsKickBack.mp4 */ = {isa = PBXFileReference; name = "tricepsKickBack.mp4"; path = "../assets/tricepsKickBack.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		14F6626ADBAA415BA42F4ED5 /* tuckjumps.mp4 */ = {isa = PBXFileReference; name = "tuckjumps.mp4"; path = "../assets/tuckjumps.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AEACCD197DFE46819D31C355 /* volleyLogo.png */ = {isa = PBXFileReference; name = "volleyLogo.png"; path = "../assets/volleyLogo.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C62F06B28B9A42B2906DDE48 /* vup.mp4 */ = {isa = PBXFileReference; name = "vup.mp4"; path = "../assets/vup.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		55187A43EB4F4CD8926DBF65 /* wallsit.jpg */ = {isa = PBXFileReference; name = "wallsit.jpg"; path = "../assets/wallsit.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F67F0587A63D41D4BE74C61D /* widePushUp.mp4 */ = {isa = PBXFileReference; name = "widePushUp.mp4"; path = "../assets/widePushUp.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2479F5AE1BA3448D96C7D44C /* woman.jpeg */ = {isa = PBXFileReference; name = "woman.jpeg"; path = "../assets/woman.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		74B2F51ACB5F4E76907E22FF /* wristCurl.mp4 */ = {isa = PBXFileReference; name = "wristCurl.mp4"; path = "../assets/wristCurl.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8A827E643A004D2AB5C464E5 /* zigzagsprint.png */ = {isa = PBXFileReference; name = "zigzagsprint.png"; path = "../assets/zigzagsprint.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B1C678B9697B4243BE0D278A /* backextension.mp4 */ = {isa = PBXFileReference; name = "backextension.mp4"; path = "../assets/backextension.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B45DB6065FF6483DA403F18A /* barbellrow.mp4 */ = {isa = PBXFileReference; name = "barbellrow.mp4"; path = "../assets/barbellrow.mp4"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D8EFE2AC497F4E33AAAE3493 /* stretch.jpg */ = {isa = PBXFileReference; name = "stretch.jpg"; path = "../assets/stretch.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +385,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				20827FF7DFEB41C3A590A3CE /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -115,6 +408,160 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		20827FF7DFEB41C3A590A3CE /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				AB3C4297ABE54F9098A10518 /* Poppins-Bold.ttf */,
+				D3234EFBB8104698B248EC6A /* Poppins-Regular.ttf */,
+				37B4475A1ED84A13877575FB /* agility.png */,
+				3AF34CB6B59144749292524F /* backup.mp4 */,
+				A5A8FDFA2C434C418D4DDFD1 /* benchDips.mp4 */,
+				75ECF1FD0565423283226518 /* benchPress.mp4 */,
+				573ABCC600FF45849BCF4365 /* bentOverRow.mp4 */,
+				C028A3A22311452BB2CC9F82 /* bicepsBarbelCurl.mp4 */,
+				A70E36A17C0840A8916FDC70 /* bicepsCurl.mp4 */,
+				21965962ADDB44E6BCB9B37A /* boxjumps.jpg */,
+				3E89229CE0484DC89F0864C7 /* bridge.mp4 */,
+				FE4092835CE143E2A4563691 /* bulgarianSplit.mp4 */,
+				CDCC7CDC9EF54E7DBC5909AB /* butterfly.mp4 */,
+				E44CC7B1147346CCB5FB482E /* butterfly2.jpg */,
+				2C2AE1073B704FB995893FBE /* cabbleCrunch.mp4 */,
+				ACAC6150CF4549859CCFB692 /* cableRobExtension.mp4 */,
+				38921FEA4F5242A3A64FD04A /* calfRise.mp4 */,
+				C638A505B3204102AED7A9ED /* chestFly.mp4 */,
+				F6A759220E5844B1B5D74150 /* childpose.jpg */,
+				9BB0CFABB461447FAA8EF4D1 /* clappushup.mp4 */,
+				281DE9A0B1B249EE81B2C783 /* climberTwist.mp4 */,
+				BFCC911248554CC682E1FC3B /* cobrapose.jpg */,
+				AE7D934801354DF39FF013A9 /* coordination.png */,
+				9620BF7E07F1446B9276CA93 /* crunch.mp4 */,
+				A99C9BE16E3741669633BC2F /* cycling.mp4 */,
+				ADFF54286B9947C99BB7554B /* dayatahan.png */,
+				8677B7C39E774183A437393C /* deadbug.mp4 */,
+				6D6FBD7445B74DAFAAFFE038 /* deadLift.mp4 */,
+				14806DB9AEF2442AA4FCA13B /* deadLift2.mp4 */,
+				9F2C37A4D38945D39BCFB2EB /* deadlift2vid.mp4 */,
+				DFADBC29AB9B4CBABC0A4C26 /* declineBechPress.mp4 */,
+				FF9DFA8D198B4FFE8FED1DC6 /* declinePushUp.mp4 */,
+				8E062C3DA70D4E20B68BDD85 /* depthJumps.mp4 */,
+				03BEB3B5079A44BCA9FD2BCC /* diamondPushUp.mp4 */,
+				2FD3394BAD86420FB5FF19C6 /* downwarddog.jpg */,
+				510C3D8A130C4461B9C71994 /* dumbbellBrenchPress.mp4 */,
+				CEEA0EA434AC415A902BB28D /* dumbbellbrenchpress1.json */,
+				B97DF434D96A49E2AEE22B19 /* dumbbellLegExtension.mp4 */,
+				4A703852B87D4EF79608B41D /* dumbbellLunges.mp4 */,
+				895FB2B38338457997CFED96 /* dumbbellRow.mp4 */,
+				20394FD6EAA545119C7CFB5B /* eurofit.jpg */,
+				42E24AD420F944A296C52B78 /* flexibility.png */,
+				2E080EC643224C15A52F093F /* flutterKick.mp4 */,
+				30B3C9C475EC43A485F420A4 /* forwardlunge.jpg */,
+				1CB8BD4BBE4040B5BDA6F287 /* frontRaise.mp4 */,
+				F959FC823E9A4ED09D1C646B /* halfSquad.mp4 */,
+				577D197B6872407A9BC0F385 /* hamstringCurl.mp4 */,
+				DCF44A89A0504EB59A56DB43 /* headerbg.png */,
+				B47248C0EE71439DB7047852 /* heeltouch.mp4 */,
+				E354DDD4BBFE4B6D803B2010 /* highplank1.jpg */,
+				2CC16FF662844CA6A9D8F275 /* highplank2.jpg */,
+				0775F9E6E9CC4AE0ACB517DA /* hipThrust.mp4 */,
+				ACAD8EB3F2A24774A51E088D /* hummerCurl.mp4 */,
+				906F35C9CDD54F908DE2705E /* inclineBenchPress.mp4 */,
+				096A00049B044432B18F49EB /* inclinePushUp.mp4 */,
+				94090E2E81AE4AEC89AE818D /* jumpingjack.mp4 */,
+				55FA0863538E4B0FB7ECC070 /* jumpSquats.mp4 */,
+				8E9FAD573C9F41C29347DC84 /* jumpwithhurdle1.mp4 */,
+				008105F0717F48AC9980DF81 /* jumpwithhurdle2.mp4 */,
+				A1547934B5C64A1388D6ED88 /* jumpWithHurdle3.mp4 */,
+				0ADA5D19569547E0A0CB2061 /* jumpwithhurdle4.mp4 */,
+				6FA01BD11B61483288D5216B /* jumpWithHurdle5.mp4 */,
+				101EA0385A714949829DF701 /* kneeldownJumpTucks.mp4 */,
+				A9F0057B9AB24FCBAEA2FEF7 /* kneeldownToJumpSquat.mp4 */,
+				A0544309A8624364878DE04E /* kneelingdownstrecth.jpg */,
+				0134509FC36A46FAACF5E55A /* kneelinghamstring.jpg */,
+				2436197C83D04586A06C8300 /* kneeTucks.mp4 */,
+				9A321231CAC642719DED807F /* laddersdrill.jpg */,
+				9B6F33BBF7DD4C78BE0A3A96 /* latAgility.png */,
+				A212D5DFA35D451493563713 /* latBlocking.png */,
+				110ED00BBDB948B5BF9030A1 /* latCoordination.png */,
+				6FE7E5DFEF8D4324A8F7C31F /* latEndurance.png */,
+				587A80E488CD45F4B43EB9D3 /* lateralBounds.mp4 */,
+				453F90857000494BAAB9065E /* lateralRaise.mp4 */,
+				136F80D30D7B4E7DA02B2A34 /* latFlexibility.png */,
+				73B91251854D4817A1145D0E /* latOverhand.png */,
+				3D9933B2E5314C1198B874EA /* latPower.png */,
+				164E3914C6944223888B1BEE /* latPullDown.mp4 */,
+				42B44ADF3AD24AF7B850C879 /* latSpeed.png */,
+				3691785942864D578D459471 /* latSpike.png */,
+				E3FE7A8AE16941318F9301B9 /* latStrength.png */,
+				05A82280347248AABCC91CBF /* latUnder.png */,
+				2A2F902C5ECD4F1CBC25E013 /* legextension.mp4 */,
+				E9731A137D8C4A178B79E170 /* legPress.mp4 */,
+				DF4A79885DFD4FC9A53DC9C8 /* legraise.mp4 */,
+				375D49898E5B48C796C52AE6 /* logo_unj.png */,
+				EA336591D2B04E4BA0948170 /* lunges.mp4 */,
+				A2BA6BAB7DAB48C9B66D9951 /* medicineballchestpass.jpg */,
+				D62D665F0FC143AEAAE07331 /* medicineballoverheadslam.mp4 */,
+				17CA210C10AB49DAB61A9146 /* mountainClimber.mp4 */,
+				9EB904DD13FE443E9601ED3E /* mov_bbb.mp4 */,
+				B864902CC10D4BE2B3C46DCE /* oblique.mp4 */,
+				2A8FAECB1FD74FB6A37E6DA9 /* physic.png */,
+				581DC9EE16034E6B8F601F5A /* pikePushUp.mp4 */,
+				809C500F88D7430FAB6188AD /* plank.mp4 */,
+				C40C5D5BE23C4E08919DC269 /* plankwitharmreach.jpg */,
+				C1A0A15FA75744E79B74E073 /* plankwithleglift.jpg */,
+				65CE695C4CC54A10BD4EC6D1 /* plyometricPushUp.mp4 */,
+				B273890A6B4C456DBFC82DDF /* power.png */,
+				EA2B895401E9476FA2C8BA1F /* powerClean.mp4 */,
+				6CF7E180E3AA4E3BB9DD8A6C /* pullUp.mp4 */,
+				08225D5CCE3140CF8BC91D39 /* rearBelt.mp4 */,
+				48448566CE1140A4AD774641 /* rearBeltFly.mp4 */,
+				9C566DF7CFAF4FD8BFB98BB0 /* reclinedtwist.jpg */,
+				01A91650D6DD474BB283C637 /* regularPushUp.mp4 */,
+				DBAC488A3CED498B86882490 /* reverseplank.jpg */,
+				929B9A30828C4405915904B6 /* russiantwist.mp4 */,
+				9ADF41E570CF486B81015987 /* seatedCableRow.mp4 */,
+				EBC2B9E6035E4EACB14A911D /* servis.png */,
+				E3E5AC6E06A44A50B623CCC2 /* shoulderTap.mp4 */,
+				6E7671D6568E4B74BAFC14ED /* shuttlerun.jpg */,
+				06CB6B867EDA4847A8B45229 /* sideplank.jpg */,
+				C517250497274B8AA2CA8A6C /* sitandreach.jpg */,
+				85DB2E6F401B447E9BEBB41A /* skipping.mp4 */,
+				B6C3BA79C419484B82515728 /* slams.mp4 */,
+				75EAB2BE88DE4969AD7865C2 /* Fisik.png */,
+				53B5DBD3C68446DAB71304C3 /* teknik.png */,
+				04928BFCB5594FFEBB64FC22 /* snakes.mp4 */,
+				DF5B484A76E24BE6952DD5F1 /* soulderPress.mp4 */,
+				1CB56D4C8181461697A769DE /* speed.png */,
+				4F8A6CABAF204E7FA93AF8C7 /* splashScreenBackground.png */,
+				8F28B18223AD425FA23472C1 /* sprintjarakpendek.jpg */,
+				094004E1867C46599559244A /* sprintmenggunakanbeban.jpg */,
+				555C4507CC6C4A54831DF1DB /* squat.mp4 */,
+				B1B1C82A8FFD473594B4C6AA /* staggeredPushUp.mp4 */,
+				AF942799C44B441D86E63A5B /* strenght.png */,
+				C658ABA4B432464C87417ECA /* sumosquat.mp4 */,
+				7D8ECE1DC0BE47B5913CF61B /* supermanBackUp.mp4 */,
+				018AE164EF274DD3A5E6F02B /* supermanplank.jpg */,
+				BD1B795FC5D24DFFBE4F5B52 /* swing.mp4 */,
+				BD755556B82647DA83636B63 /* threadtheneedle.jpg */,
+				9D1F376E3B6D46348BC10D8E /* toetouch.mp4 */,
+				28EE4E58498C4E52B8EFB8B1 /* towelPullUp.mp4 */,
+				0807C35F1FB14E808E3C9999 /* tricepsExtension.mp4 */,
+				775E6ABF82D34C41BF21518F /* tricepsKickBack.mp4 */,
+				14F6626ADBAA415BA42F4ED5 /* tuckjumps.mp4 */,
+				AEACCD197DFE46819D31C355 /* volleyLogo.png */,
+				C62F06B28B9A42B2906DDE48 /* vup.mp4 */,
+				55187A43EB4F4CD8926DBF65 /* wallsit.jpg */,
+				F67F0587A63D41D4BE74C61D /* widePushUp.mp4 */,
+				2479F5AE1BA3448D96C7D44C /* woman.jpeg */,
+				74B2F51ACB5F4E76907E22FF /* wristCurl.mp4 */,
+				8A827E643A004D2AB5C464E5 /* zigzagsprint.png */,
+				B1C678B9697B4243BE0D278A /* backextension.mp4 */,
+				B45DB6065FF6483DA403F18A /* barbellrow.mp4 */,
+				D8EFE2AC497F4E33AAAE3493 /* stretch.jpg */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -185,6 +632,152 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				AC72E6D7250C48128460FCDF /* Poppins-Bold.ttf in Resources */,
+				B955B2DB77464CB58112CB48 /* Poppins-Regular.ttf in Resources */,
+				9059083A29CB46CDA0ACF1B0 /* agility.png in Resources */,
+				E450F6CD33AC496BBF5BB4FD /* backup.mp4 in Resources */,
+				504E09BA67324262BD8EEC66 /* benchDips.mp4 in Resources */,
+				93619B0B53F242FBA24852EB /* benchPress.mp4 in Resources */,
+				706EFDB2F8D04EDD923D0954 /* bentOverRow.mp4 in Resources */,
+				03C752AF6BDD4CD9AE1B9B73 /* bicepsBarbelCurl.mp4 in Resources */,
+				42EBDDBCA0B74D5D83D247CB /* bicepsCurl.mp4 in Resources */,
+				AD9C1B52D90447E9B07124AB /* boxjumps.jpg in Resources */,
+				0F91885FD56C4F3798B13628 /* bridge.mp4 in Resources */,
+				C49298223D124F65BF2BA16F /* bulgarianSplit.mp4 in Resources */,
+				2D6E756ACCE54EFDA9426CFC /* butterfly.mp4 in Resources */,
+				95C75C5DC3A6440896E72691 /* butterfly2.jpg in Resources */,
+				E98EDB928A984794AFC7C6A9 /* cabbleCrunch.mp4 in Resources */,
+				4FF09A0EA813495EBAF7B396 /* cableRobExtension.mp4 in Resources */,
+				20792006C2E541249A56D9AA /* calfRise.mp4 in Resources */,
+				81D458568D0C4F6088A8818A /* chestFly.mp4 in Resources */,
+				383BB3A0FFF64E71B7C29F60 /* childpose.jpg in Resources */,
+				8ABAC9DFED0940049C1A4F6F /* clappushup.mp4 in Resources */,
+				B8BDF6F2A7B0408BBBCE5A3D /* climberTwist.mp4 in Resources */,
+				7EB39255F6094E6FA81CE639 /* cobrapose.jpg in Resources */,
+				17CFBDC76F8B41C69E0B5729 /* coordination.png in Resources */,
+				75C240E3CB2A4FC2BFCDA041 /* crunch.mp4 in Resources */,
+				0C36CCF7A05E44DB90F3BC46 /* cycling.mp4 in Resources */,
+				1D6F4F9BC8B14A388673922A /* dayatahan.png in Resources */,
+				679E5F33231642D7BDC8EE5C /* deadbug.mp4 in Resources */,
+				68025F31565B4AE0B390CD57 /* deadLift.mp4 in Resources */,
+				5F65723EC3FA4C93BCD7A860 /* deadLift2.mp4 in Resources */,
+				00423BA56D5445F2BB0A2548 /* deadlift2vid.mp4 in Resources */,
+				2DA96FD5AF2D41CD959144F6 /* declineBechPress.mp4 in Resources */,
+				B7C3CF0B2D11412D92310B60 /* declinePushUp.mp4 in Resources */,
+				65BCAC97E5A5469B83C1456B /* depthJumps.mp4 in Resources */,
+				0D140600C2B649D795CA6455 /* diamondPushUp.mp4 in Resources */,
+				7CDFCA3C08E842DD9E9036DA /* downwarddog.jpg in Resources */,
+				278097BD83C842E7AC7C1820 /* dumbbellBrenchPress.mp4 in Resources */,
+				3F4CAA2AAD4F4068ABCCB157 /* dumbbellbrenchpress1.json in Resources */,
+				890FF3B28A154BF1890A9EF4 /* dumbbellLegExtension.mp4 in Resources */,
+				20A9C19F10534BB09D5844A0 /* dumbbellLunges.mp4 in Resources */,
+				060B8582A34A4253931D2B06 /* dumbbellRow.mp4 in Resources */,
+				A4C36990E42C426BAA99EBF4 /* eurofit.jpg in Resources */,
+				4CB738624EC7436EA8E29FD8 /* flexibility.png in Resources */,
+				AA5A1238820F407D90DB08B4 /* flutterKick.mp4 in Resources */,
+				B9AA251B02A44935AC74293F /* forwardlunge.jpg in Resources */,
+				F88566705C524C68B9B2E312 /* frontRaise.mp4 in Resources */,
+				D90DFE1736C244D4A520F083 /* halfSquad.mp4 in Resources */,
+				390CB621A69647299F996B4E /* hamstringCurl.mp4 in Resources */,
+				EDCD5ECF9E174156AD82E5AA /* headerbg.png in Resources */,
+				B610081513674E29B60E425E /* heeltouch.mp4 in Resources */,
+				8448BBD65D9E4ACABD3E0E51 /* highplank1.jpg in Resources */,
+				4E45341A914D4468B0C3065A /* highplank2.jpg in Resources */,
+				F26B87C088C24359B0CB59B8 /* hipThrust.mp4 in Resources */,
+				38130FEFBD1848E68C6BFAC6 /* hummerCurl.mp4 in Resources */,
+				9B49FD5BB7554086AD84BF55 /* inclineBenchPress.mp4 in Resources */,
+				6126AE79CAD949769FAB2C2C /* inclinePushUp.mp4 in Resources */,
+				4FAC91B0568642DFAD073136 /* jumpingjack.mp4 in Resources */,
+				7EBC5718DBBD45C28AAFFC65 /* jumpSquats.mp4 in Resources */,
+				58F8AD06A76B4E95B8AA3D74 /* jumpwithhurdle1.mp4 in Resources */,
+				54AF158996D1471797AE3AE1 /* jumpwithhurdle2.mp4 in Resources */,
+				FDE00894B3724CDD901F2D5E /* jumpWithHurdle3.mp4 in Resources */,
+				C8066F8549404CB3ADEA043A /* jumpwithhurdle4.mp4 in Resources */,
+				8CA5BC8152F646D5B2360923 /* jumpWithHurdle5.mp4 in Resources */,
+				C779D71EC1554EF1B2E04643 /* kneeldownJumpTucks.mp4 in Resources */,
+				A5D6E31DC22E461CB6F21293 /* kneeldownToJumpSquat.mp4 in Resources */,
+				F17C758E8FDA403398857456 /* kneelingdownstrecth.jpg in Resources */,
+				409D415CEAE941F88D0BB143 /* kneelinghamstring.jpg in Resources */,
+				C43CA5AFE2AA42B3AEA28577 /* kneeTucks.mp4 in Resources */,
+				B2E2E3316D284C359326CF9E /* laddersdrill.jpg in Resources */,
+				852CEB6EC577422ABD3CDFB5 /* latAgility.png in Resources */,
+				764C7C11B0DB4EE99CA8E9C2 /* latBlocking.png in Resources */,
+				41B10C58905948818CB102B9 /* latCoordination.png in Resources */,
+				A5EBF5D4CFB743F0A6B91078 /* latEndurance.png in Resources */,
+				F87DFD69C28F482083630971 /* lateralBounds.mp4 in Resources */,
+				CE464FFD8E354188B2DAB54F /* lateralRaise.mp4 in Resources */,
+				8EBE98B8CF2F4A0C8BD41048 /* latFlexibility.png in Resources */,
+				C1C84E9F147D4CE994C08E3B /* latOverhand.png in Resources */,
+				5CCC34FE42E543228E6CEE24 /* latPower.png in Resources */,
+				88FBDAC97DC648E2A3E5B3E4 /* latPullDown.mp4 in Resources */,
+				16A0FE03B14A4AE5B5E38B69 /* latSpeed.png in Resources */,
+				8C612625ADA74CE798B76B65 /* latSpike.png in Resources */,
+				B24AEFE22CCA47D5890CD51A /* latStrength.png in Resources */,
+				D260339517DC43D7A3041055 /* latUnder.png in Resources */,
+				85A4D82EF54A4C749C83CCA2 /* legextension.mp4 in Resources */,
+				4E8E456F70BC4C0FA4D5C26A /* legPress.mp4 in Resources */,
+				03B3FB06FDEF43638D5D4A42 /* legraise.mp4 in Resources */,
+				4C0F35F57AE74BAD97FC4553 /* logo_unj.png in Resources */,
+				07C7F96B53CB4A5D8FBBBC79 /* lunges.mp4 in Resources */,
+				6A5844E3B7574934A6CB19F5 /* medicineballchestpass.jpg in Resources */,
+				4C95FE3732834FA6A3EC42A4 /* medicineballoverheadslam.mp4 in Resources */,
+				CFAF7C01E1494283A731A609 /* mountainClimber.mp4 in Resources */,
+				4F5920E106EC45D2A2511B09 /* mov_bbb.mp4 in Resources */,
+				1082218FC57D49E5B876ABDE /* oblique.mp4 in Resources */,
+				74638F3D192B44809A98D0D7 /* physic.png in Resources */,
+				A814E1FA411E41A99F374D3F /* pikePushUp.mp4 in Resources */,
+				0FE4F53A1C134DD2A65D3D20 /* plank.mp4 in Resources */,
+				555C37BAA24A41639C9A140F /* plankwitharmreach.jpg in Resources */,
+				ABD1AB55CA714B9D894DEB1C /* plankwithleglift.jpg in Resources */,
+				55507206C10D41A0AC5132F8 /* plyometricPushUp.mp4 in Resources */,
+				4856881AA9E3431E91C3D767 /* power.png in Resources */,
+				0E2EC7189DB24811863B9932 /* powerClean.mp4 in Resources */,
+				C34B25DE694E45538C9C92C9 /* pullUp.mp4 in Resources */,
+				4FDC586D36764E9F96BC8FD3 /* rearBelt.mp4 in Resources */,
+				CE4D7ABE2D344097B0328EA9 /* rearBeltFly.mp4 in Resources */,
+				CDCB2457FE7441A9A60A4786 /* reclinedtwist.jpg in Resources */,
+				D93E788D28684665A76E986F /* regularPushUp.mp4 in Resources */,
+				8E2AA7DBB28F44778DA7BB8C /* reverseplank.jpg in Resources */,
+				AA55B959FD774448BCF7F71A /* russiantwist.mp4 in Resources */,
+				4AB3F9444FC34BF7940ED40A /* seatedCableRow.mp4 in Resources */,
+				D0D60164F4B2482982CB1530 /* servis.png in Resources */,
+				CE979CCA028D422AAFD9DB84 /* shoulderTap.mp4 in Resources */,
+				66D02B3A91C04BC29811BE41 /* shuttlerun.jpg in Resources */,
+				08BD3057837B4AFCB6AB6B59 /* sideplank.jpg in Resources */,
+				C6BF21AFDD26404B9CE115DE /* sitandreach.jpg in Resources */,
+				33DD1B92EABC4BF782992B53 /* skipping.mp4 in Resources */,
+				9B51D34C54F0444FA3D25288 /* slams.mp4 in Resources */,
+				6AE72906602A46B2B246A200 /* Fisik.png in Resources */,
+				A1572A9B6A1F483A946C70BA /* teknik.png in Resources */,
+				9503BC489CE04E299B06425F /* snakes.mp4 in Resources */,
+				9913674B5D954BD1A3A7CBC3 /* soulderPress.mp4 in Resources */,
+				808B2637ADC542F0AE992CE2 /* speed.png in Resources */,
+				304A72702C164600BB4F88D8 /* splashScreenBackground.png in Resources */,
+				8349A4BC5ED242CB9396FC8E /* sprintjarakpendek.jpg in Resources */,
+				0F987A449EAC41BE8F271143 /* sprintmenggunakanbeban.jpg in Resources */,
+				61D7D696BEDA4FCA96CED0E0 /* squat.mp4 in Resources */,
+				8417857BC9644EAABDDEB6D5 /* staggeredPushUp.mp4 in Resources */,
+				7C215C3DE81141DE8E16ED13 /* strenght.png in Resources */,
+				3DDC98D850E147469638E395 /* sumosquat.mp4 in Resources */,
+				C2DA9B1D71724A15ABE9F240 /* supermanBackUp.mp4 in Resources */,
+				C104F75F48B148B8A677E792 /* supermanplank.jpg in Resources */,
+				FA04F9240BE3476E854F2A40 /* swing.mp4 in Resources */,
+				DAD7247C287B48CCA794DC05 /* threadtheneedle.jpg in Resources */,
+				E486FA42D9A94C66BC807EAF /* toetouch.mp4 in Resources */,
+				465A223020734D0F82D6D3A9 /* towelPullUp.mp4 in Resources */,
+				1B5612ADF3C54D3893E1DC82 /* tricepsExtension.mp4 in Resources */,
+				EA9A462FD16D46F79538E249 /* tricepsKickBack.mp4 in Resources */,
+				40265150833F42AFA1B834BC /* tuckjumps.mp4 in Resources */,
+				9C06EB42DD6B42B9847B39AA /* volleyLogo.png in Resources */,
+				2A8284C26E884FA18C922EC2 /* vup.mp4 in Resources */,
+				8C3CB75F5B0B45E6A6D1D932 /* wallsit.jpg in Resources */,
+				AF95C77B01434717962DDFDF /* widePushUp.mp4 in Resources */,
+				2A98897B441148F1B03FF059 /* woman.jpeg in Resources */,
+				7C378200F6BF40EC92DD3658 /* wristCurl.mp4 in Resources */,
+				4DB5DA3FEE9B4515B6C52275 /* zigzagsprint.png in Resources */,
+				15B98FB63EF949D890B27D64 /* backextension.mp4 in Resources */,
+				963787A837794B739C4D1ABE /* barbellrow.mp4 in Resources */,
+				3A26114BA4CF472AAAE908AC /* stretch.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
